@@ -1,0 +1,4 @@
+﻿  учебная практика.cpp
+C:\Users\maksi\OneDrive\Desktop\учебная практика\учебная практика\учебная практика.cpp(78,1): warning C4715: DateTime::Validate: значение возвращается не при всех путях выполнения
+C:\Users\maksi\OneDrive\Desktop\учебная практика\учебная практика\учебная практика.cpp(30,1): warning C4715: DateTime::WhatDays: значение возвращается не при всех путях выполнения
+  учебная практика.vcxproj -> C:\Users\maksi\OneDrive\Desktop\учебная практика\x64\Debug\учебная практика.exe
